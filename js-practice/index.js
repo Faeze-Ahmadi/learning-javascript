@@ -7,11 +7,11 @@ alert(username);
 
 let name = new String("Faeze");
 let familyName = new String("ahmadi");
-let age = parseInt(20);
+let age_ = parseInt(20);
 
 alert(typeof name);
 alert(typeof familyName);
-alert(typeof age);
+alert(typeof age_);
 
 
 let Name = ("Faeze");
