@@ -36,3 +36,7 @@ document.writeln(age);
 let user_dob = 2023 - age;
 
 document.writeln(user_dob);
+
+const value_1 = +prompt();
+const value_2 = +prompt();
+console.log(value_1 + value_2);
