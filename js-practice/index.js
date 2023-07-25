@@ -1,8 +1,8 @@
-/*let userName = new String("ali");
-alert(userName); 
+// let userName = new String("ali");
+// alert(userName); 
 
-let username = new String(`saman`);
-alert(username); */
+// let username = new String(`saman`);
+// alert(username); 
 
 
 // let name = new String("Faeze");
@@ -16,3 +16,11 @@ alert(username); */
 
 // let Name = ("Faeze");
 // alert(typeof Name);
+
+
+let seconds = 210;
+let min = Math.floor(seconds / 60);
+let sec = seconds % 60; 
+
+alert(min);
+alert(sec);
